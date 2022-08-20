@@ -98,7 +98,6 @@ li {
 }
 
 li:hover{
-  position: relative;
   margin-top: -3px;
   margin-bottom: 3px;
   cursor: pointer;
